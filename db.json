@@ -1,7 +1,3 @@
 {
-  "user": "user",
-  "repo": "repo",
-  "url": "https://raw.githubusercontent.com/user/repo/main/db.json",
-  "status": 404,
-  "data": "404: Not Found"
+  "Status":"ok"
 }
